@@ -1,2 +1,2 @@
 # CSE471
-Plant Store Management System
+Plant Store Management System Backend
